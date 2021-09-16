@@ -1,0 +1,6 @@
+/index.php?cookies=token%3Ddbb837e2a8d3d6f2c23d706990ebaa6c
+/
+/favicon.ico
+/favicon.ico
+/
+/config/getuser?index=0
